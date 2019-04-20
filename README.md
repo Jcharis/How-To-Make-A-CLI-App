@@ -9,10 +9,12 @@ How to Make A Command Line Application in Python,Julia and Javascript
 - Sys
 - Click
 - Docopt
+- Google's Fire
 
 
 #### Julia
 - Argparse.jl
+- DoCopt.jl
 
 
 #### JavaScript
